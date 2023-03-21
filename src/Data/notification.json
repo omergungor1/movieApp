@@ -1,0 +1,102 @@
+[
+    {
+        "id": 2,
+        "name": "Ant-Man ve Wasp: Quantumania",
+        "time": "2s 1dk",
+        "category": "Aksiyon",
+        "title": "Ant-Man ve Wasp: Quantumania, ailesi ile birlikte kendisini bir anda Kuantum Alemi'nde bulan Ant-Man'in maceralarını konu ediyor. Ant-Man, Avengers: Endgame sonrasında insanlar arasında oldukça popüler olmuştur ve bunun tadını çıkarmaktadır. Ancak kızı Cassie'nin yaptığı araç ile Kuantum Alemi'ne sinyal göndermesiyle kendisini bir anda bambaka bir dünyanın içinde bulur. Ona bu sıra dışı evrende ailesiyle birlikte Hope’un babası Hank Pym ve annesi Janet Van Dyne da eşlik eder. Kuantum Alemi'ni keşfeden aile, bu süreçte olağanüst yaratıklarla karşı karşıya kalır.",
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/23/01/25/11/45/2784455.jpg",
+        "video": "https://imdb-video.media-imdb.com/vi3289957657/1434659607842-pgv4ql-1675318727668.mp4?Expires=1677676920&Signature=eKC1oA904wUIcVBue26lb1XKU3tuh3h~nAoHRoA1KP~ZJk2KCl1vCITd6~VB-cfHlnRpnfzswPqUa4-MCJ1AjuieiFJBztUL6KMbnQJC-VMOf7OvsyCGc14tfyR0RqEd0q~hjLZAYc-W8SSCUf8jVHY2xV7YwJjxYNBXes0XrPzbFI2J6xa76EQiVXRbsut4ZHanCTO8ZIjlTWgLp8VR1zjCP94UVmzmkKW4pof3tqoWocaIClqKY7HoI6CcKTqQ~itr0b5lMDBaeYVnydgjC0seo3qMjXafb8Ww1VbMybUAz7HTLEio1-6wcvhT~CbO92pGNgyIWhggEoAzC7Z-UA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+        "star": 3.5,
+        "director": "Peyton Reed",
+        "casts": [
+            {
+                "name": "Paul Rudd",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/18/04/24/11/17/4714754.jpg"
+            },
+            {
+                "name": "Evangeline Lilly",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/19/03/14/11/14/4084158.jpg"
+            },
+            {
+                "name": "Michael Douglas",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/19/06/18/13/40/1109045.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Avatar: Suyun Yolu",
+        "time": "3s 12dk",
+        "category": "Fantastik",
+        "title": "Avatar serisinin 2009 yılında küresel bir fenomen haline gelen devam halkası; bu defa James Cameron'un yaratmış olduğu öykü evreninin hem kökenlerine iniyor hem de sınırlarını genişletmeyi hedefliyor. Avatar'da yaşanan olaylardan birkaç yıl sonra Jake ve Neytiri Pandora'da kendi ailelerini kurmuştur. Ancak onlar evlerini terk etmek zorunda kalır. Bu yüzden Jake ve Neytiri, suyun yüzeri ve altı dahil olmak üzere Pandora'nın dışındaki yerleri keşfetmeye başlar.",
+        "image": "https://tr.web.img3.acsta.net/c_310_420/pictures/22/12/12/07/34/4691827.jpg",
+        "video": "https://imdb-video.media-imdb.com/vi3565864217/1434659607842-pgv4ql-1669124569701.mp4?Expires=1677677258&Signature=b7kEkkpJP0Mf3YzEjHfBDqVOWHOeM6pYudL34sEg~WiKcMClqeUvOOm30NOzmbJAXRmZUyGQ4D252VEKeB9plBbA9Psp8jc52LhpYQ1ItJzmMBPyB1nlN3cwTiI7UbyqgTzocGDPOwqrM23XqII5EnLN7VX1bGGbAduijPJXGA6ls~iJde4fWCA1CJVKj4S7bQn3YOqtYRTlxCf7kHN92J0tJARmz6c99Ri35t9KtzrG0WO0opUfK9~LD9KfSkUEDbxp2PRld~MS8OX9XOTT~tb9gmiy5ag5VPi8tdIDSlWseOEg7~1Dhc5LsjeO4lu31MNYNyvMSKZa14KpQtLqcw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+        "star": 4.4,
+        "director": "James Cameron",
+        "casts": [
+            {
+                "name": "Sam Worthington",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/15/07/06/12/16/032047.jpg"
+            },
+            {
+                "name": "Zoe Saldana",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/pictures/18/05/04/11/38/3895826.jpg"
+            },
+            {
+                "name": "Sigourney Weaver",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/15/07/27/13/14/152942.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "John Wick: Chapter 4",
+        "time": "2s 49dk",
+        "category": "Aksiyon",
+        "title": "Film, köpeğinin öldürülmesi üzerine yeniden yeraltı dünyasına karışan eski bir suikastçının maceralarının anlatıldığı John Wick filminin dördüncü devam halkasıdır. John Wick karakterine hayat veren Keanu Reeves, dördüncü devam halkası için bir kez daha kamera karşısına geçiyor.Film, köpeğinin öldürülmesi üzerine yeniden yeraltı dünyasına karışan eski bir suikastçının maceralarının anlatıldığı John Wick filminin dördüncü devam halkasıdır. John Wick karakterine hayat veren Keanu Reeves, dördüncü devam halkası için bir kez daha kamera karşısına geçiyor.",
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/22/12/05/14/13/2635823.jpg",
+        "video": "https://imdb-video.media-imdb.com/vi289916185/1434659607842-pgv4ql-1676561376414.mp4?Expires=1677780015&Signature=PV85RzxHIo9FUm08Pgy1UwZcIE64edVN-7GFnFThF~PRVHMs5TlmigDPQM~exAGTkXXHJNzxTV~EFSyytEgi~4ycWdIJ4lLHX-LGSud11gB0yz-aZa8YLhGpEaUr8NDIF1GDbfrfkl-L2ViI9h0LB0HAw4ccBZ228gAstmAaZvXnY2M3j4qHXOMecgGC6bSwFgAjUQRl6Smsbdcu319LHUE38B4w0TTumHV~gvUZIG1g78UbEscv78fji1kb1iVoMmjK6UpT3eC~w0UAgk7SKwQa8Px8QvLN9KIkhrqutq22hbSHHD7MKAZjAQ5XMP71YlGA4Wx7hl1FFVzvYKWzhA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+        "star": 5,
+        "director": "Chad Stahelski",
+        "casts": [
+            {
+                "name": "Keanu Reeves",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/15/12/28/15/43/230792.jpg"
+            },
+            {
+                "name": "Donnie Yen",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/medias/nmedia/18/36/13/24/18455286.jpg"
+            },
+            {
+                "name": "Bill Skarsgård",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/medias/nmedia/18/86/83/22/19864978.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "İllegal Hayatlar",
+        "time": "1s 44dk",
+        "category": "Komedi",
+        "title": "İllegal Hayatlar, kaçak kumarhane işletmeye çalışan bir adamın hikayesini konu ediyor. Mahsun, kaçak bir kumarhane işletmektedir. Bu nedenle de polis baskınlarıyla baş etmekte bir hayli zorlanır. Kumarhaneyi işletmeye devam etmek isteyen Mahsun, bu amaçla sahte bir siyasi parti kurmaya karar verir. Böylece gizli olarak kumarhane işletmeye devam edebilecektir. Ancak bu fikir, hem de kendisini hem de arkadaşlarını türlü maceraların içine sürükler.",
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/22/12/18/20/30/0912334.jpg",
+        "video": "",
+        "star": 4.1,
+        "director": "Cenk Çelik",
+        "casts": [
+            {
+                "name": "Mahsun Karaca",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/23/01/09/08/03/5858966.png"
+            },
+            {
+                "name": "Müjde Uzman",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/14/11/04/11/45/211443.jpg"
+            },
+            {
+                "name": "Mehmet Kahraman",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/23/01/09/08/08/4366646.png"
+            }
+        ]
+    }
+]

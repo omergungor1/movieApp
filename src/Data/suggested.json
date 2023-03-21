@@ -1,0 +1,77 @@
+[
+    {
+        "id": 9,
+        "name": "Tek Yürek İmalat-ı Harbiye",
+        "time": "1s 54dk",
+        "category": "Dram",
+        "title": "Tek Yürek İmalat-ı Harbiye, çalıştıkları fabrikada takım kurarak futbol oynamaya başlayan İmalat-ı Harbiyeli işçilerinin hikayesini konu ediyor. 1910 yılında İmalat-ı Harbiyeli işçileri, Osmanlıya cephane üreten fabrikalarda çalışmaktadır. Kendi takımlarını kuran işçiler, Fransızların kontrolündeki ligde futbol oynamaya başlar. Onlar için eğlenceli bir tutku olan futbol, çok geçmeden milli bir davanın parçası haline gelir. O günlerde memleketleri için Tek Yürek olup savaşan İmalat-ı Harbiyeli işçiler gibi şimdi taraftarlar, kulüp ve mahalleli aynı ruhla birlik olup kanser hastası Yiğit için savaşır.",
+        "image": "https://tr.web.img2.acsta.net/c_310_420/pictures/23/02/27/08/16/5679365.jpg",
+        "video": "",
+        "star": 4.2,
+        "director": "Serdar Çetinkaya",
+        "casts": [
+            {
+                "name": "Turgay Tanülkü",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/82/92/19/19647545.jpg"
+            },
+            {
+                "name": "İnanç Konukçu",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/medias/nmedia/18/84/06/00/19724256.jpg"
+            },
+            {
+                "name": "Sitare Akbaş",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/13/12/09/12/35/505439.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Örümcek-Adam: Örümcek-Evrenine Geçiş",
+        "time": "2s 16dk",
+        "category": "Aksiyon",
+        "title": "Spider-Man: Into the Spider-Verse, radyoaktif bir örümcek tarafından ısırılmasıyla bambaşka bir dünyaya adım atıp, özel yeteneklerle donanan Miles Morales'in maceralarını konu ediyor. Spider-Man: Into The Spider-Verse'ün devam halkası olan yapımın yönetmen koltuğunda Joaquim Dos Santos oturuyor.",
+        "image": "https://tr.web.img3.acsta.net/c_310_420/pictures/22/12/23/08/24/1169095.jpg",
+        "video": "",
+        "star": 4.6,
+        "director": "Joaquim Dos Santos",
+        "casts": [
+            {
+                "name": "Karan Soni",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/pictures/19/06/06/00/40/5293218.jpg"
+            },
+            {
+                "name": "Shameik Moore",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/14/12/05/13/45/453276.jpg"
+            },
+            {
+                "name": "Hailee Steinfeld",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/pictures/19/08/27/10/13/0826817.jpg"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Transformers: Canavarların Yükselişi",
+        "time": "1s 56dk",
+        "category": "Macera",
+        "title": "Transformers: Rise of the Beasts'de Predacon, Maximal ve Terrorconlar, Transformers dünyasına dahil olur. Diğer Transformerlar, Autobot ve Decepticonların savaşının ortasında çıkagelir.Transformers: Rise of the Beasts'de Predacon, Maximal ve Terrorconlar, Transformers dünyasına dahil olur. Diğer Transformerlar, Autobot ve Decepticonların savaşının ortasında çıkagelir.Transformers: Rise of the Beasts'de Predacon, Maximal ve Terrorconlar, Transformers dünyasına dahil olur. Diğer Transformerlar, Autobot ve Decepticonların savaşının ortasında çıkagelir.",
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/21/06/30/15/06/1236936.jpg",
+        "video": "",
+        "star": 4.0,
+        "director": "Steven Caple Jr.",
+        "casts": [
+            {
+                "name": "Anthony Ramos",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/16/10/17/16/18/276439.jpg"
+            },
+            {
+                "name": "Dominique Fishback",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/18/03/19/17/14/2084427.jpg"
+            },
+            {
+                "name": "Domenic Di Rosa",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png"
+            }
+        ]
+    }
+]

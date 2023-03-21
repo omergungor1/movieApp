@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "Top Gun: Maverick",
+        "time": "2s 11dk",
+        "category": "Aksiyon",
+        "title": "Top Gun: Maverick, pilot Pete “Maverick” Mitchell'in hava kuvvetlerine geri dönüşü sonrası yaşananlara odaklanıyor. Amerika Birleşik Devletleri Deniz Kuvvetleri Teğmeni Pete “Maverick” Mitchell, donanmaya verdiği 30 yıllık başarılı hizmetin ardından, test pilotu olarak sınırları zorlar. Kendisini karaya bağlayacak herhangi bir görevden uzak durmak isteyen Maverick, kendisini Top Gun mezunlarından oluşan bir müfrezeyi özel bir görev için eğitirken bulur. Hem belirsiz bir gelecekle hem de geçmişindeki anılarıyla karşı karşıya olan Maverick, gitmek zorunda olduğu görev nedeniyle en büyük korkularıyla yüzleşmek zorunda kalır.",
+        "image": "https://tr.web.img2.acsta.net/c_310_420/pictures/22/05/23/12/43/0003377.jpg",
+        "video": "https://imdb-video.media-imdb.com/vi632472089/1434659607842-pgv4ql-1648562542211.mp4?Expires=1677677559&Signature=msUZbnVO9mDbKn8TzvQH4DQClfxMYNDMex3gEoS97crgWTUjzeTkhE2W7nc5Mwjl0MUe27AOxRdZ9z5s51lgyT9mmgRsnvwdrT0dAZoxAgqbgl8W1ozFyyjlxdSG6w0E-Ttoeq-~k1ZlnUbxqyCTNZX5kq5B~SRWH1yTNs47xiELJsj3YHxQfhUGPHZcDiVszGmncylj-Y8sFH3WvBLhRYM04TAXhHGrdsptKr3xGTIhYfy6fT1AtL0oxBdjsUg6wfANAEL6JB5O3~WQ9K2tyn6xMMoinlfZhgMCpi~8j2e7Y4~cuJocNrh2R3lxF6-qPqLayEwjoqu1kL9rgbfMHA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+        "star": 4.8,
+        "director": "Joseph Kosinski",
+        "casts": [
+            {
+                "name": "Tom Cruise",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/pictures/15/07/24/09/46/099529.jpg"
+            },
+            {
+                "name": "Miles Teller",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/16/02/16/11/44/354195.jpg"
+            },
+            {
+                "name": "Jennifer Connelly",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/pictures/15/11/24/16/42/248748.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Ant-Man ve Wasp: Quantumania",
+        "time": "2s 1dk",
+        "category": "Aksiyon",
+        "title": "Ant-Man ve Wasp: Quantumania, ailesi ile birlikte kendisini bir anda Kuantum Alemi'nde bulan Ant-Man'in maceralarını konu ediyor. Ant-Man, Avengers: Endgame sonrasında insanlar arasında oldukça popüler olmuştur ve bunun tadını çıkarmaktadır. Ancak kızı Cassie'nin yaptığı araç ile Kuantum Alemi'ne sinyal göndermesiyle kendisini bir anda bambaka bir dünyanın içinde bulur. Ona bu sıra dışı evrende ailesiyle birlikte Hope’un babası Hank Pym ve annesi Janet Van Dyne da eşlik eder. Kuantum Alemi'ni keşfeden aile, bu süreçte olağanüst yaratıklarla karşı karşıya kalır.",
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/23/01/25/11/45/2784455.jpg",
+        "video": "https://imdb-video.media-imdb.com/vi3289957657/1434659607842-pgv4ql-1675318727668.mp4?Expires=1677676920&Signature=eKC1oA904wUIcVBue26lb1XKU3tuh3h~nAoHRoA1KP~ZJk2KCl1vCITd6~VB-cfHlnRpnfzswPqUa4-MCJ1AjuieiFJBztUL6KMbnQJC-VMOf7OvsyCGc14tfyR0RqEd0q~hjLZAYc-W8SSCUf8jVHY2xV7YwJjxYNBXes0XrPzbFI2J6xa76EQiVXRbsut4ZHanCTO8ZIjlTWgLp8VR1zjCP94UVmzmkKW4pof3tqoWocaIClqKY7HoI6CcKTqQ~itr0b5lMDBaeYVnydgjC0seo3qMjXafb8Ww1VbMybUAz7HTLEio1-6wcvhT~CbO92pGNgyIWhggEoAzC7Z-UA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+        "star": 3.5,
+        "director": "Peyton Reed",
+        "casts": [
+            {
+                "name": "Paul Rudd",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/18/04/24/11/17/4714754.jpg"
+            },
+            {
+                "name": "Evangeline Lilly",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/19/03/14/11/14/4084158.jpg"
+            },
+            {
+                "name": "Michael Douglas",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/19/06/18/13/40/1109045.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Karakomik Filmler 2",
+        "time": "1s 36dk",
+        "category": "Komedi",
+        "title": "Cem Yılmaz’ın yönetmenliğini ve senaristliğini üstlendiği ‘Karakomik Filmler’ serisinin devam filmi Karakomik Filmler 2' Deli ve Emanet  adında iki filmde oluşuyor. Deli, en büyük hayali sevdiği kızın karşısında oturmak olan bir taksicinin, gece mesaisinde başına gelenler olayları konu ederken; Emanet, yetenek yarışmalarına katılıp bu sayede şöhret olmanın hayalini kuran bir danşçının hikayesini konu ediyor.",
+        "image": "https://tr.web.img3.acsta.net/c_310_420/pictures/19/11/21/11/20/5550474.jpg",
+        "video": "https://imdb-video.media-imdb.com/vi3432759833/1434659607842-pgv4ql-1651583464930.mp4?Expires=1677780613&Signature=gpRlG-fB-D7oYUyD44xdN9ZBgF9lS4AGHB4whP1nIgXCrxSjWsafuZ5OyCiEfL8yRt2l9GiZZ06lmCqqW0jngJnOrDFShNyMCbbagWuUhYn~edoHWMiInTwiQ~~z4XDwsqyoV7nXv9cl8yymNrkUdxqPHEFm60Lan44JwsO0jNDFMU~mRkVJ4ZnROAttC~LVXDK3cGpXdl78Lwxxr1wUE4ntY6E5i0H4waVH9Wzt4tV5Mn71SV1jARJzKAyiVM7wx7Vt4V0Rm1cmJlfADmyOb79m3jkhubha~l5L0m3Sw2ZM5NI9qs4K0hjhpk0MNICc4I9y5L87vwAwztszd-2KJQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+        "star": 3.5,
+        "director": "Cem Yılmaz",
+        "casts": [
+            {
+                "name": "Cem Yılmaz",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/15/05/07/13/39/405251.jpg"
+            },
+            {
+                "name": "Büşra Develi",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/15/09/11/15/55/180376.jpg"
+            },
+            {
+                "name": "Özkan Uğur",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/84/52/88/19792004.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Avatar: Suyun Yolu",
+        "time": "3s 12dk",
+        "category": "Fantastik",
+        "title": "Avatar serisinin 2009 yılında küresel bir fenomen haline gelen devam halkası; bu defa James Cameron'un yaratmış olduğu öykü evreninin hem kökenlerine iniyor hem de sınırlarını genişletmeyi hedefliyor. Avatar'da yaşanan olaylardan birkaç yıl sonra Jake ve Neytiri Pandora'da kendi ailelerini kurmuştur. Ancak onlar evlerini terk etmek zorunda kalır. Bu yüzden Jake ve Neytiri, suyun yüzeri ve altı dahil olmak üzere Pandora'nın dışındaki yerleri keşfetmeye başlar.",
+        "image": "https://tr.web.img3.acsta.net/c_310_420/pictures/22/12/12/07/34/4691827.jpg",
+        "video": "https://imdb-video.media-imdb.com/vi3565864217/1434659607842-pgv4ql-1669124569701.mp4?Expires=1677677258&Signature=b7kEkkpJP0Mf3YzEjHfBDqVOWHOeM6pYudL34sEg~WiKcMClqeUvOOm30NOzmbJAXRmZUyGQ4D252VEKeB9plBbA9Psp8jc52LhpYQ1ItJzmMBPyB1nlN3cwTiI7UbyqgTzocGDPOwqrM23XqII5EnLN7VX1bGGbAduijPJXGA6ls~iJde4fWCA1CJVKj4S7bQn3YOqtYRTlxCf7kHN92J0tJARmz6c99Ri35t9KtzrG0WO0opUfK9~LD9KfSkUEDbxp2PRld~MS8OX9XOTT~tb9gmiy5ag5VPi8tdIDSlWseOEg7~1Dhc5LsjeO4lu31MNYNyvMSKZa14KpQtLqcw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+        "star": 4.4,
+        "director": "James Cameron",
+        "casts": [
+            {
+                "name": "Sam Worthington",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/15/07/06/12/16/032047.jpg"
+            },
+            {
+                "name": "Zoe Saldana",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/pictures/18/05/04/11/38/3895826.jpg"
+            },
+            {
+                "name": "Sigourney Weaver",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/15/07/27/13/14/152942.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "6 Süper Kahraman",
+        "time": "1s 42dk",
+        "category": "Animasyon",
+        "title": "Oldukça zeki bir robot tasarımcısı olan Hiro Hamada kendisini bir anda bir suç örgütünün içinde bulacaktır. Kötü adamların amacı yüksek teknolojili “San Fransokyo” kentini yerle bir etmektir. En yakın arkadaşı Baymax ‘ın yardımıyla Hiro, şehri kurtarmak için oluşturulan gönüllüler ordusuna katılır. Onları Hiro'nun diğer arkadaşları da yalnız bırakmayacaktır:  Hiro gibi macera bağımlısı olan Gogo Tamaga, oldukça düzenli, sistemli ve sevimli Wasabi No-Ginger, kimya konusunda uzmanlaşmış Honey Lemon ve fanatik Fred. Disney’in yapımcılığını üstlendiği aile animasyonunda yönetmenler animasyonun mutfağından gelen ödüllü isimler olan Don Hall ve Chris Williams ikilisi.",
+        "image": "https://tr.web.img3.acsta.net/c_310_420/pictures/14/06/17/10/59/244197.jpg",
+        "video": "https://imdb-video.media-imdb.com/vi513650457/1434659607842-pgv4ql-1616202543931.mp4?Expires=1677677879&Signature=NSfDmTz6e4JHVI2mBf1vx~PzyndKntXhzYxpVQ5aC6AK7A6O4mw052-IOmdXKgeJmCvbQEOMV31ye3VjtTgU0Ifg5CxHG6evlI2be46XFXUsiI9YJTgVOubMRWfq0hVAlJ0GQ7QUxygnqu0dj-JwYV3LApjSfCkl9U0uD-hgGFbX~fDfn4Ltz7UkiB1YmoP2D47CpBV0V3ocfrGskqBt6CNsx8A33XYH5WzUwlmViQfW5lp2GFp9atnGL6gwcaeJYIy5yeMOXQkhNyr7cS5CA3pm3YYC0T1x1gdNDtKqZw~15yHQV7c9~oOqxDswX6BOcZZyF7hSwLeET8sK9I8L0A__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+        "star": 4.2,
+        "director": "Don Hall",
+        "casts": [
+            {
+                "name": "Scott Adsit",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/17/08/17/13/15/414064.jpg"
+            },
+            {
+                "name": "Ryan Potter",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/pictures/14/12/30/11/51/515136.jpg"
+            },
+            {
+                "name": "Daniel Henney",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/69/73/41/19074008.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "John Wick: Chapter 4",
+        "time": "2s 49dk",
+        "category": "Aksiyon",
+        "title": "Film, köpeğinin öldürülmesi üzerine yeniden yeraltı dünyasına karışan eski bir suikastçının maceralarının anlatıldığı John Wick filminin dördüncü devam halkasıdır. John Wick karakterine hayat veren Keanu Reeves, dördüncü devam halkası için bir kez daha kamera karşısına geçiyor.Film, köpeğinin öldürülmesi üzerine yeniden yeraltı dünyasına karışan eski bir suikastçının maceralarının anlatıldığı John Wick filminin dördüncü devam halkasıdır. John Wick karakterine hayat veren Keanu Reeves, dördüncü devam halkası için bir kez daha kamera karşısına geçiyor.",
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/22/12/05/14/13/2635823.jpg",
+        "video": "https://imdb-video.media-imdb.com/vi289916185/1434659607842-pgv4ql-1676561376414.mp4?Expires=1677780015&Signature=PV85RzxHIo9FUm08Pgy1UwZcIE64edVN-7GFnFThF~PRVHMs5TlmigDPQM~exAGTkXXHJNzxTV~EFSyytEgi~4ycWdIJ4lLHX-LGSud11gB0yz-aZa8YLhGpEaUr8NDIF1GDbfrfkl-L2ViI9h0LB0HAw4ccBZ228gAstmAaZvXnY2M3j4qHXOMecgGC6bSwFgAjUQRl6Smsbdcu319LHUE38B4w0TTumHV~gvUZIG1g78UbEscv78fji1kb1iVoMmjK6UpT3eC~w0UAgk7SKwQa8Px8QvLN9KIkhrqutq22hbSHHD7MKAZjAQ5XMP71YlGA4Wx7hl1FFVzvYKWzhA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+        "star": 5,
+        "director": "Chad Stahelski",
+        "casts": [
+            {
+                "name": "Keanu Reeves",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/15/12/28/15/43/230792.jpg"
+            },
+            {
+                "name": "Donnie Yen",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/medias/nmedia/18/36/13/24/18455286.jpg"
+            },
+            {
+                "name": "Bill Skarsgård",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/medias/nmedia/18/86/83/22/19864978.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "İllegal Hayatlar",
+        "time": "1s 44dk",
+        "category": "Komedi",
+        "title": "İllegal Hayatlar, kaçak kumarhane işletmeye çalışan bir adamın hikayesini konu ediyor. Mahsun, kaçak bir kumarhane işletmektedir. Bu nedenle de polis baskınlarıyla baş etmekte bir hayli zorlanır. Kumarhaneyi işletmeye devam etmek isteyen Mahsun, bu amaçla sahte bir siyasi parti kurmaya karar verir. Böylece gizli olarak kumarhane işletmeye devam edebilecektir. Ancak bu fikir, hem de kendisini hem de arkadaşlarını türlü maceraların içine sürükler.",
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/22/12/18/20/30/0912334.jpg",
+        "video": "",
+        "star": 4.1,
+        "director": "Cenk Çelik",
+        "casts": [
+            {
+                "name": "Mahsun Karaca",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/23/01/09/08/03/5858966.png"
+            },
+            {
+                "name": "Müjde Uzman",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/14/11/04/11/45/211443.jpg"
+            },
+            {
+                "name": "Mehmet Kahraman",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/23/01/09/08/08/4366646.png"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Çizmeli Kedi: Son Dilek",
+        "time": "1s 42dk",
+        "category": "Animasyon",
+        "title": "Çizmeli Kedi: Son Dilek, 9 canının 8'ini acımasızca harcayan Çizmeli Kedi’nin maceralarını konu ediyor. Çizmeli kedi macera tutkusunun ona çok pahalıya mal olduğunu keşfeder. Macera tutkusunun bedelini 9 canından 8’ini harcayarak ödeyen Çizmeli Kedi, son bir maceraya atılır. Efsanevi Son Dilek'i bulmak için destansı bir yolculuğa çıkan Çizmeli Kedi, amacına ulaşabilirse dokuz canını yenileyebilecektir. Çizmeli Kedi, son canı ile Kara Orman’a doğru çıktığı bu macerada amacına ulaşabilecek midir?",
+        "image": "https://tr.web.img3.acsta.net/c_310_420/pictures/22/11/16/08/06/4618708.jpg",
+        "video": "https://imdb-video.media-imdb.com/vi3470049817/1434659607842-pgv4ql-1655305704269.mp4?Expires=1677677928&Signature=Py3vzCGR01z8QeCeWBhKTu2rOK7rWv-y2WcJpNs4qbr1aHze9LTG~X-U74P1pgiE~26tEpYN7AHMCCmFi2PVuNsQfSVr1~qTsE3agrzfSTqB6Yccw13fGndbfm1FwdkYgfLkT0NFTvc41eR2ZtL6nu0fyEyJGb9YXP3b-aYn5bPwrtQ6WK25gvEW51nAzEJzixPs6Jy~4r1LYx1uKNG9XB-6y-Hpx35cF-4Q8DV5oCOZSu0mJn2mkpf217GBxGFYV2oO35URpJkolipG2EFIV6991Sv6COoN16KxcaN67361gPk20q5iKVWM5ivcpQCzr28WmkHudM5OJH4Rmev4pg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+        "star": 4.0,
+        "director": "Januel P. Mercado",
+        "casts": [
+            {
+                "name": "Antonio Banderas",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/pictures/19/05/20/14/38/2630224.jpg"
+            },
+            {
+                "name": "Salma Hayek",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/15/05/15/11/36/500804.jpg"
+            },
+            {
+                "name": "Harvey Guillen",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/20/11/20/12/38/2639652.jpg"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Tek Yürek İmalat-ı Harbiye",
+        "time": "1s 54dk",
+        "category": "Dram",
+        "title": "Tek Yürek İmalat-ı Harbiye, çalıştıkları fabrikada takım kurarak futbol oynamaya başlayan İmalat-ı Harbiyeli işçilerinin hikayesini konu ediyor. 1910 yılında İmalat-ı Harbiyeli işçileri, Osmanlıya cephane üreten fabrikalarda çalışmaktadır. Kendi takımlarını kuran işçiler, Fransızların kontrolündeki ligde futbol oynamaya başlar. Onlar için eğlenceli bir tutku olan futbol, çok geçmeden milli bir davanın parçası haline gelir. O günlerde memleketleri için Tek Yürek olup savaşan İmalat-ı Harbiyeli işçiler gibi şimdi taraftarlar, kulüp ve mahalleli aynı ruhla birlik olup kanser hastası Yiğit için savaşır.",
+        "image": "https://tr.web.img2.acsta.net/c_310_420/pictures/23/02/27/08/16/5679365.jpg",
+        "video": "",
+        "star": 4.2,
+        "director": "Serdar Çetinkaya",
+        "casts": [
+            {
+                "name": "Turgay Tanülkü",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/medias/nmedia/18/82/92/19/19647545.jpg"
+            },
+            {
+                "name": "İnanç Konukçu",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/medias/nmedia/18/84/06/00/19724256.jpg"
+            },
+            {
+                "name": "Sitare Akbaş",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/13/12/09/12/35/505439.jpg"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Örümcek-Adam: Örümcek-Evrenine Geçiş",
+        "time": "2s 16dk",
+        "category": "Aksiyon",
+        "title": "Spider-Man: Into the Spider-Verse, radyoaktif bir örümcek tarafından ısırılmasıyla bambaşka bir dünyaya adım atıp, özel yeteneklerle donanan Miles Morales'in maceralarını konu ediyor. Spider-Man: Into The Spider-Verse'ün devam halkası olan yapımın yönetmen koltuğunda Joaquim Dos Santos oturuyor.",
+        "image": "https://tr.web.img3.acsta.net/c_310_420/pictures/22/12/23/08/24/1169095.jpg",
+        "video": "",
+        "star": 4.6,
+        "director": "Joaquim Dos Santos",
+        "casts": [
+            {
+                "name": "Karan Soni",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/pictures/19/06/06/00/40/5293218.jpg"
+            },
+            {
+                "name": "Shameik Moore",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/pictures/14/12/05/13/45/453276.jpg"
+            },
+            {
+                "name": "Hailee Steinfeld",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/pictures/19/08/27/10/13/0826817.jpg"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Transformers: Canavarların Yükselişi",
+        "time": "1s 56dk",
+        "category": "Macera",
+        "title": "Transformers: Rise of the Beasts'de Predacon, Maximal ve Terrorconlar, Transformers dünyasına dahil olur. Diğer Transformerlar, Autobot ve Decepticonların savaşının ortasında çıkagelir.Transformers: Rise of the Beasts'de Predacon, Maximal ve Terrorconlar, Transformers dünyasına dahil olur. Diğer Transformerlar, Autobot ve Decepticonların savaşının ortasında çıkagelir.Transformers: Rise of the Beasts'de Predacon, Maximal ve Terrorconlar, Transformers dünyasına dahil olur. Diğer Transformerlar, Autobot ve Decepticonların savaşının ortasında çıkagelir.",
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/21/06/30/15/06/1236936.jpg",
+        "video": "",
+        "star": 4.0,
+        "director": "Steven Caple Jr.",
+        "casts": [
+            {
+                "name": "Anthony Ramos",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/16/10/17/16/18/276439.jpg"
+            },
+            {
+                "name": "Dominique Fishback",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/18/03/19/17/14/2084427.jpg"
+            },
+            {
+                "name": "Domenic Di Rosa",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/commons/v9/common/empty/empty_portrait.png"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Galaksinin Koruyucuları 3",
+        "time": "2s 16dk",
+        "category": "Macera",
+        "title": "Guardians of the Galaxy serisinin üçüncü devam halkası olan yapımın yönetmen koltuğunda ilk iki filmin de yönetmenliğini üstlenen James Gunn oturuyor.Guardians of the Galaxy serisinin üçüncü devam halkası olan yapımın yönetmen koltuğunda ilk iki filmin de yönetmenliğini üstlenen James Gunn oturuyor.Guardians of the Galaxy serisinin üçüncü devam halkası olan yapımın yönetmen koltuğunda ilk iki filmin de yönetmenliğini üstlenen James Gunn oturuyor.Guardians of the Galaxy serisinin üçüncü devam halkası olan yapımın yönetmen koltuğunda ilk iki filmin de yönetmenliğini üstlenen James Gunn oturuyor.",
+        "image": "https://tr.web.img4.acsta.net/c_310_420/pictures/23/02/13/09/04/5672474.jpg",
+        "video": "",
+        "star": 3.8,
+        "director": "James Gunn",
+        "casts": [
+            {
+                "name": "Chris Pratt",
+                "photo": "https://tr.web.img4.acsta.net/c_310_420/pictures/15/07/27/13/07/079239.jpg"
+            },
+            {
+                "name": "Chukwudi Iwuji",
+                "photo": "https://tr.web.img3.acsta.net/c_310_420/medias/nmedia/18/94/63/92/20344448.jpg"
+            },
+            {
+                "name": "Zoe Saldana",
+                "photo": "https://tr.web.img2.acsta.net/c_310_420/pictures/18/05/04/11/38/3895826.jpg"
+            }
+        ]
+    }
+]
